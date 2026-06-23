@@ -1,0 +1,31 @@
+{
+  "title": "Associez librement les adjectifs et les professions",
+  "instruction": "Accordez si c'est nécessaire.",
+  "wordbank": ["calme", "souriant", "curieux", "rapide", "précis", "patient", "dynamique", "gai"],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "open",
+      "prompt": "Un bon chirurgien :",
+      "suggested": "Il est calme et précis."
+    },
+    {
+      "id": 2,
+      "type": "open",
+      "prompt": "Une bonne journaliste :",
+      "suggested": "Elle est curieuse et dynamique."
+    },
+    {
+      "id": 3,
+      "type": "open",
+      "prompt": "Un bon vendeur :",
+      "suggested": "Il est souriant et rapide."
+    },
+    {
+      "id": 4,
+      "type": "open",
+      "prompt": "Une bonne institutrice :",
+      "suggested": "Elle est patiente et gaie."
+    }
+  ]
+}
