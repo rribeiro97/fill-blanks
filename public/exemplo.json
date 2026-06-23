@@ -1,0 +1,14 @@
+{
+  "title": "Complétez avec «Il est» ou «Elle est» (plusieurs solutions)",
+  "exercises": [
+    { "id": 1, "parts": ["", " japonais."], "answers": ["Il est"] },
+    { "id": 2, "parts": ["", " jeune."], "answers": ["Il est", "Elle est"] },
+    { "id": 3, "parts": ["", " italienne."], "answers": ["Elle est"] },
+    { "id": 4, "parts": ["", " étudiante."], "answers": ["Elle est"] },
+    { "id": 5, "parts": ["", " mariée."], "answers": ["Elle est"] },
+    { "id": 6, "parts": ["", " français."], "answers": ["Il est"] },
+    { "id": 7, "parts": ["", " chinoise."], "answers": ["Elle est"] },
+    { "id": 8, "parts": ["", " sympathique."], "answers": ["Il est", "Elle est"] },
+    { "id": 9, "parts": ["", " blond."], "answers": ["Il est"] }
+  ]
+}
